@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
+# Description
+
+This project is the result of the angular advanced course on openclassrooms plateform :
+
+https://openclassrooms.com/fr/courses/7471281-perfectionnez-vous-sur-angular
+
+It contains many examples to test angular concepts like : 
+
+Angular animations 
+
+Angular material design 
+
+Angular complex forms 
+
+it needs a backend : https://github.com/marwa-bourouais/angular-advanced-backend
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
